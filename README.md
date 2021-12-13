@@ -25,7 +25,7 @@ Compared to original STITCH, the optimized version defects in:
 ## Installation
 
 ```sh
-git clone https://github.com/Genetalks/stitch.git
+git clone https://github.com/Genetalks/stitch-diploid.git
 cd stitch
 sh stitch-*-centos-x86_64.run   # on ubuntu 16.04 / ubuntu 18.04 / ubuntu 20.04
 sh stitch-*-centos-x86_64.run   # on centos7 / centos8
@@ -100,3 +100,10 @@ sh stitch-*-centos-x86_64.run   # on centos7 / centos8
 
 
 ## License
+For copyright and disclaimer, see [LICENSE](https://github.com/Genetalks/stitch-diploid/blob/master/LICENSE)  for details.
+
+The expired date of attached license is 2022/12/31, we will update the license at regular intervals.
+
+## Contact Us
+If you have any questions, feel free to submit new Github issues. 
+
